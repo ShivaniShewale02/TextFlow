@@ -76,7 +76,7 @@ Licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Shivani Shewale**  
+**Shivani Ramesh Shewale**  
 [GitHub Profile](https://github.com/ShivaniShewale02)
 
 ---
